@@ -16,7 +16,7 @@ const Brand = {
 
   // Optional string for the name of the brand.  If non-null, the brand name will appear in the top of the About dialog
   // {string} For example: "My Company"
-  name: 'Aki Labs',
+  name: 'ஆக்கி Labs',
 
   // Optional string for the copyright statement.  If non-null, it will appear in the About dialog
   // {string} For example: "Copyright © 2014, My Company"
@@ -31,7 +31,7 @@ const Brand = {
    */
   getLinks: function( simName, locale ) {
     return [ {
-      text: 'Visit Aki Website',
+      text: 'ஆக்கி வலைத்தளத்திற்கு செல்க',
       url: 'https://aki.coach'
     } ];
   },
